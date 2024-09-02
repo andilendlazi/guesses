@@ -68,4 +68,4 @@ def guess_countries():
             
 guess_countries()   
     
-#print(data_dict)
+print(data_dict)
